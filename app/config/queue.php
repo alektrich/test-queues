@@ -52,8 +52,8 @@ return array(
 		'iron' => array(
 			'driver'  => 'iron',
 			'host'    => 'mq-aws-us-east-1.iron.io',
-			'token'   => 'your-token',
-			'project' => 'your-project-id',
+			'token'   => 'yjPs2eqJlDvszGyRYFMAMKY-ZN0',
+			'project' => '53b67ec5a446e20005000076',
 			'queue'   => 'your-queue-name',
 			'encrypt' => true,
 		),
